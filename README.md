@@ -1,4 +1,4 @@
-## Hi 👋, I'm Monish Venkata Naga Sai Nallamilli
+# Hi 👋, I'm Monish Venkata Naga Sai Nallamilli
 
 <h3 align="left">A passionate Software Engineer, Android Enthusiast, iOS Fan and Tech Geek</h3>
 
